@@ -13,8 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "I am a software engineer with passion for sofware architecture. 
-    You can see the projects I currently work on by visiting the projects page."
+  description          = "Welcome to my blog! I am a software engineer with passion for sofware architecture. You can see the projects I currently work on by visiting the projects page."
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Home"
   # Sets where "View More Posts" links
